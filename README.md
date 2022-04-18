@@ -146,13 +146,16 @@ This is a list things you need to use the software and how to install them.
 
 - [X] Build for Android
 - [X] Add Changelog
-- [X] Create start screen
-- [X] Create high score screen
-- [X] Increase speed
-- [X] Enemies
-- [X] Collectables
-- [X] Next Levels
-- [X] Tilt Controls
+- [ ] Background
+- [ ] Goal Flag
+- [ ] Spikes when drop
+- [ ] Create start screen
+- [ ] Create high score screen
+- [ ] Increase speed
+- [ ] Enemies
+- [ ] Collectables
+- [ ] Next Levels
+- [ ] Tilt Controls
 - [ ] Improved Images
 - [ ] Improved Sounds
 - [ ] Levels
